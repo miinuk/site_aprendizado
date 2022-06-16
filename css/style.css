@@ -1,0 +1,76 @@
+<!--  pega todo o html1 --
+*{  
+    margin: 0;
+    padding: 0;
+    
+   
+}
+/* fora do menu*/
+.menu {
+    width: 99%;
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0 auto ;
+    padding: 10px;   
+    background-size: cover;
+     
+}
+/* links dentro do menu */
+.menu > a{ 
+    text-decoration:none;
+    padding-right: 8px;
+    border-right: 2px solid orange ;
+    font-size: 25px;
+    color :orange ;
+    margin: 50px;
+    
+
+}
+
+.wallpaper {
+    background-repeat: no-repeat;
+   
+    text-align: center;
+    background-size: cover;
+
+}
+
+
+
+.texto > p {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    
+    
+    
+
+} 
+
+.titulo > p {
+    color:red;
+    margin: 80px;
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 100px;
+    border: 2px solid red;
+
+    }
+
+.texto  {
+    text-align: left;
+    color: red;
+    display: flex;
+   
+}
+
+
+   
+
+
+
+
+
+
